@@ -1,5 +1,5 @@
 # JSScalper v5
-![logo](images/logo.png)
+![logo](images/logo2.png)
 
 
 
