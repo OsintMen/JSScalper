@@ -1,5 +1,4 @@
 # JSScalper v5
-![JSScalper Logo](images/logo.png)
 
 **JSScalper v5** is a professional, ethical, bug bounty–grade JavaScript reconnaissance and intelligence tool.  
 It scans websites to collect all JavaScript files (including dynamically loaded/lazy-loaded files), extracts routes, endpoints, GraphQL operations, WebSockets, secrets, and generates structured intelligence reports with risk scoring.
